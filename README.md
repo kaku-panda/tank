@@ -4,9 +4,9 @@ node.js ウェブソケットサーバーの練習に作成しました. <br>
 
 # デプロイ
 [Render](https://render.com/)というサービスを使用しました. <br>
-750 h / month まで無料で使用できます．
+750 h / month まで無料で使用できます． <br>
 支払い方法も登録せずに利用できるので安心です．
 
 
 # リンク
-https://render.com/docs/deploy-node-express-app
+https://tank-battle-game.onrender.com
